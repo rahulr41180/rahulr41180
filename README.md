@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulr41180" alt="rahulr41180" /></a> </p>
 
-- 🔭 I’m currently working on **Amazon.com-Clone**
+- 🔭 I’m currently working on **I am currently working on cloning of Amazon.com**
 
 - 🌱 I’m currently learning **Full-Stack Web Developer**
 
