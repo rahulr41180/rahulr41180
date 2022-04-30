@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Rathor</h1>
 <h3 align="center">I am passionate to learn new technology.</h3>
 
-![Alt Text](https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif)
+<!-- ![Alt Text](https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif) -->
 
-<img src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" />
+<img width="50%" margin="auto" src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulr41180&label=Profile%20views&color=0e75b6&style=flat" alt="rahulr41180" /> </p>
 
