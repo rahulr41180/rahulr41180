@@ -4,7 +4,9 @@
 
 <!-- ![Alt Text](https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif) -->
 
-<img style = "border=1px solid; width=60%; margin : auto auto auto auto; text-align=center;" src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" />
+<div style="border : 1px solid; width : 50vw; height : 5vw; display : flex">
+  <img style = "width : 100%; height: 100%" src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulr41180&label=Profile%20views&color=0e75b6&style=flat" alt="rahulr41180" /> </p>
 
