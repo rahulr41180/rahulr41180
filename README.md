@@ -4,7 +4,7 @@
 
 <!-- ![Alt Text](https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif) -->
 
-<img width="40%" text-align="center" src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" />
+<img style = "width="60%"; text-align="center"" src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulr41180&label=Profile%20views&color=0e75b6&style=flat" alt="rahulr41180" /> </p>
 
