@@ -4,7 +4,7 @@
 
 <!-- ![Alt Text](https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif) -->
 
-<div style="border : 1px solid; width : 50vw; height : 5vw; display : flex">
+<div style="border : 1px solid; width : 50vw; height : 5vw; display : flex; margin : auto">
   <img style = "width : 100%; height: 100%" src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" />
 </div>
 
